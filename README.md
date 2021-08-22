@@ -1,4 +1,4 @@
-# Akan Names Project
+# Quote-App Project
 #### This is a Quote-App, 22/08/2021
 #### By **SHALIN RONO**
 ## Description
