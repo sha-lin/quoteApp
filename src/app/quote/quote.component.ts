@@ -13,6 +13,7 @@ export class QuoteComponent implements OnInit {
   quotes: Quote[] = [
     new Quote(1, 'Makori Naph', '"Life is what happens when you’re busy making other plans."', 'John Lenon', new Date(2021,3,4)),
     new Quote(2,'Rono Shalin','"Happiness is when what you think, what you say and what you do are in harmony."', 'Thomas A. Edison', new Date(2021,1,4)),
+    new Quote(3, 'Calvin Mutai', '"Be kind whenever possible."', 'George Sand', new Date(2021,3,4)),
 
   ];
 

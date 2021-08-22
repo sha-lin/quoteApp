@@ -1,6 +1,7 @@
 <h5>{{goal.description}}</h5>
 <h6>Author: {{goal.author}}</h6>
 <p>Last added: {{goal.completeDate|dateCount}} days ago.</p>
+<p>Last added: {{goal.completeDate|dateCount}} days ago.</p>
 <div>
   <p>{{numberOfLikes}}</p>
   <button (click)='likeButtonClick()' type="button" class="btn btn-success">👍</button>
