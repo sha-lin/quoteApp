@@ -252,10 +252,7 @@ footer .social-links li {
 footer .social-links li:first-child { margin-left: 0; }
 
 /* Style for the arrow scroll to quote */
-#mouse-click{
-   
-   /* animation-iteration-count: infinite; */
- }
+
  #mouse-click {
    animation: bounce 2s infinite;
  }
@@ -315,7 +312,7 @@ footer .social-links li:first-child { margin-left: 0; }
    position: relative;
    display: inline-block;
    padding: 10px 20px;
-   color: #03e9f4;
+   color: #f403f4;
    font-size: 16px;
    text-decoration: none;
    text-transform: uppercase;
