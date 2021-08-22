@@ -297,7 +297,7 @@ footer .social-links li:first-child { margin-left: 0; }
    width: 300px;
    padding-left: 30px;
    padding: 40px;
-   background: rgba(0,0,0,.5);
+   background: rgba(161, 4, 135, 0.253); 
    box-sizing: border-box;
    box-shadow: 0 15px 25px rgba(0,0,0,.6);
    border-radius: 10px;
